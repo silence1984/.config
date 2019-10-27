@@ -1,0 +1,30 @@
+# ignore everything
+/*
+/*/
+
+# ... but these:
+!/i3/
+!/polybar/
+!/ranger/
+/ranger/plugins/__pycache__/*
+/ranger/colorschemes/__pycache__/*
+/ranger/folders.conf
+!/kitty/
+!/alacritty/
+!/fish/
+!/neofetch/
+!/omf/
+!/compton.conf
+!/.Xmodmap
+!/.Xmodmap-cn
+!/.zshrc
+!/.gitignore
+!/llpp.conf
+!/README.md
+!/vimium-options.json
+!/zsh
+!/i3status/
+!/mutt/
+!/awesome/
+/mutt/accounts/*
+
