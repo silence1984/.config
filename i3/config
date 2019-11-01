@@ -43,6 +43,7 @@ exec --no-startup-id variety
 exec --no-startup-id compton
 exec --no-startup-id fcitx
 exec --no-startup-id xfce4-power-manager
+exec --no-startup-id bluemanapplet
 exec --no-startup-id electron-ssr
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
