@@ -4,6 +4,7 @@
 
 # ... but these:
 !/i3/
+!/nvim/
 !/polybar/
 !/ranger/
 /ranger/plugins/__pycache__/*
